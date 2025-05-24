@@ -2,7 +2,7 @@
 
 A comprehensive job application system for QBCore framework. This resource allows players to apply for whitelisted jobs and enables job managers to review applications, manage hiring status, and customize application questions.
 
-![QB-Applications](https://sdmntprnortheu.oaiusercontent.com/files/00000000-b220-61f4-8d4e-07f513e1463c/raw?se=2025-05-24T13%3A21%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=d9e743ed-25d5-5436-85fa-fa8ee15e0307&skoid=0a4a0f0c-99ac-4752-9d87-cfac036fa93f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-24T08%3A45%3A28Z&ske=2025-05-25T08%3A45%3A28Z&sks=b&skv=2024-08-04&sig=Xoko5TzBGq52sHkm7E6SZIyrIdVpAQ5KXk8u1QDLJc4%3D)
+![QB-Applications](https://sdmntprukwest.oaiusercontent.com/files/00000000-a0b0-6243-9611-a2f114858006/raw?se=2025-05-24T13%3A25%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=418ea3d8-4b4f-5707-bf5b-4040617ef8c0&skoid=0a4a0f0c-99ac-4752-9d87-cfac036fa93f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-24T10%3A30%3A37Z&ske=2025-05-25T10%3A30%3A37Z&sks=b&skv=2024-08-04&sig=xjwIYofdEwk3HzEyy7l51KR20AmsAHJH3nhsSdR/NDk%3DD)
 
 ## Features
 
